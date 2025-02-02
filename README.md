@@ -1,2 +1,2 @@
 # tweak
-tweak-app
+install node.js befor using tweaks
